@@ -1,5 +1,5 @@
 {
-  "name": "todo-list",
+  "name": "webpack-template",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -20,13 +20,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ArrowMin/Todo-List.git"
+    "url": "git+https://github.com/ArrowMin/Webpack-Template.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ArrowMin/Todo-List/issues"
+    "url": "https://github.com/ArrowMin/Webpack-Template/issues"
   },
-  "homepage": "https://github.com/ArrowMin/Todo-List#readme"
+  "homepage": "https://github.com/ArrowMin/Webpack-Template#readme"
 }
